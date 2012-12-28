@@ -1,0 +1,17 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"LiveReload",
+		"Markdown Preview",
+		"Package Control",
+		"Sass",
+		"SASS Build",
+		"SideBarEnhancements",
+		"Sublime-JSHint",
+		"SublimeLinter"
+	]
+}

@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+z", "ctrl+x"], "command": "title_case" }
+]

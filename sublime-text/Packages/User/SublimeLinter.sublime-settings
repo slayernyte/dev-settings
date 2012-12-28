@@ -1,0 +1,25 @@
+{
+	"jshint_options": {
+	
+		"indent" : 1,
+		"camelcase" : true,
+		"curly" : true,
+		"eqeqeq" : true,
+		"forin" : true,
+		"immed" : true,
+		"indent" : 4,
+		"latedef" : true,
+		"newcap" : true,
+		"noempty" : true,
+		"quotmark" : "single",
+		"undef" : true,
+		"unused": true,
+		"trailing" : true
+	},
+	
+	"sublimelinter_notes" : false,
+	
+	"sublimelinter_gutter_marks" : true,
+
+	"sublimelinter_notes": true
+}
