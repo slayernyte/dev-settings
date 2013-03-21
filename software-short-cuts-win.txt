@@ -1,0 +1,90 @@
+Chrome
+=========================================================================
+
+Keyboard Short Cuts
+-------------------------------------------------------------------------
+Ctrl + Shift + C - Inspect Element
+Ctrl + Shift + Del - Clear Cache and other Browser Data
+Shift + Esc - Chrome Task Manager
+Ctrl + 9  - Takes you to the last tab open on your current window
+Ctrl + Shift + B - Toggles the bookmarks bar on and off.
+Ctrl + Shift + T - Reopens the last tab you closed. Google Chrome remembers up to 10 tabs you closed.
+Alt + F or Alt + E opens Chrome settings menu (the menu you open clicking the hotdog icon, not the chrome://settings page)
+Type a URL, then press Alt + Enter to open the URL in a new tab.
+CTRL + H = Opens your browsing history
+CTRL + SHIFT + V =  Paste content from the clipboard without formatting (ie, pastes plain text)
+
+Tricks With The Mouse
+-------------------------------------------------------------------------
+Middle click a tab to close it.
+Click and drag tabs to re-arrange their position.
+Drag a tab away to make it a separate window.
+Click and hold the mouse on the back or forward button on any tab to see the history of that particular tab.
+If you want to run a search query using copied text, right click and use “Paste and Search” No need  of pasting it first and then hitting enter or clicking “Go” to run the query.
+If the text you copied is a web page, open a new tab and right click on the address bar to get “Paste and Go”, saves you one keystroke / mouse click each time !
+To zoom in or zoom out on a page (to increase font size etc) hold the control key and scroll using mouse. Scrolling forward zooms in, while scrolling backward zooms out. Ctrl + 0 brings the page back to the default zoom level.
+Any text area ( like a comment form on a blog ) if you need more space, click and drag on the bottom-right corner to re-size the box to your choice. (Note: Website owners can disable this feature with some coding. If the website has disabled this feature, you will not be able to re-size the field.
+After downloading a file, you can copy it to the desktop or to any other folder by just  dragging them directly from Google Chrome’s downloads bar ( yes, that small bar at  the bottom of the page with download progress, when you are downloading a file ) You can drag a file from this downloads bar to upload files as well. For example, you downloaded a photo your friend sent to you via email. While it is still showing on your downloads bar, open Google Drive or Dropbox (or any website that supports drag and drop to upload). Drag the file from the downloads bar directly in to the upload field to start the upload.
+Easily bookmark a page clicking the “star” icon on the right end of the addressbar. You can do this with the keyboard shortcut “Ctrl + D” too.
+
+Make Omnibox Your Friend
+-------------------------------------------------------------------------
+** Omnibox or the addressbar of Chrome can do a lot of things other than opening webpages and searching Google. Here is the top 10 for you! **
+
+Use it as a calculator for basic calculation. Try typing 4*10 now!
+Open chrome://plugins to manage Chrome plugins. Note: These are not extensions. You will see the inbuilt PDF viewer, Native client and Flash etc here.
+Open chrome://flags to explore experimental features. These are the features that Google is getting ready for future versions of Chrome. To test these out, you can click Enable next to the experiment and restart Chrome.
+Right click within the omnibox and select Edit Search Engines to change your default search engine or add a custom search engine.
+chrome://history opens up your browsing history
+chrome://bookmarks opens bookmarks manager.
+Type in about:crash or about:kill to know how a crashed page looks like!
+chrome://settings opens up settings
+Open chrome://sync-internals/ view information related to Chromesync.
+chrome://chrome-urls/ lists all available chrome:// URLs , explore it!
+
+Do Cool Stuff with Drag and Drop
+-------------------------------------------------------------------------
+** You can drag and move things around to do some cool stuff on Chrome. Some tips mentioned here work only if the website that you are on supports it. **
+
+Drag Files to Attach and Upload (works on Gmail, Picasa, Facebook and Dropbox etc)
+Drag Downloaded Files to Desktop – Drag files from the downloads bar (the one that come up on the bottom of Chrome while you download a file and after downloading) to desktop or any other folder you want to move it to.
+Drag Text To Omnibox To Search (Try this now! select some text on this page, and drag it to the omnibox, to open Google search on the current tab.
+Drag Text To Tab Bar To Search In New Tab: Drag it to the omnibar, that is the area above the addressbar next to the mew tab button, to open search in a new tab.
+Drag Links To omnibox to open them in the current tab.
+ Drag Links to Tab Bar To Open In New Tab
+Drag and drop files from your computer to Chrome addressbar to open with Chrome. This works with PDF files, images and html files.
+Drag Links to Bookmarks Bar to Add Them To Bookmark
+Drag a thumbnail from the Most Visited section of the new tab page to Apps section to create a new app for it. (They are redesigning the new tab page, so we might see this changing soon)
+Hold Ctrl and click tabs to select multiple tabs and drag them away to make a new window with all selected tabs.
+
+ 10 Tips for Developers
+-------------------------------------------------------------------------
+** Developers are usually power users of any software. So its more likely that they know most of the keyboard shortcuts for Chrome and its developer tools. But still, take a look and see if you get to learn anything new! **
+
+To search scripts, stylesheets and snippets by filename you can use: * Ctrl + O (Windows) * Cmd + O (Mac OSX)
+To perform a text search within the current file you can use: * Ctrl + F (Windows) * Cmd + F (Mac OSX)
+To do a text search across all files you can use: * Ctrl + Shift + F (Windows) * Cmd + Opt + F (Max OSX)
+If you need to dig down deeper, it’s possible to filter for or navigate to a particular JavaScript function/method or CSS rule when viewing a file using: * Ctrl + Shift + O (Windows) * Cmd + Shift + O (Mac OSX)
+The tools also support going to a specific line-number within the Sources editor. To launch the line number dialog when viewing a file you can use: * Ctrl + L (Windows) * CMD + L (Mac OSX)
+On the Dev Console (Ctrl + Shift + J) try pasting the following code. console.log(‘%cWoohoo!’, ‘font-size: 300%’). You can do  do some cool stuff with %c. Play with more text and css etc!
+Hold Shift while you refresh, for more refresh options.
+On the Javascript console, click the { } icon to view minified javacript with better formatting (unminify)
+You can do an audit of the code to see things like unused CSS rules. From the developer tools panel, open the Audits tab. Make sure that Audit Present State is selected, and hit Run
+$0 to inspect selected element in console
+
+Miscellaneous Chrome Tips
+-------------------------------------------------------------------------
+Right click any tab and select Pin tab to “save” it. Save? Yes, Chrome will remember the tabs you pinned and open them next time you open Chrome. Chrome will arrange pinned tabs to the extreme left of your Chrome windows.
+Another use for Pinned Tab: You already know about pinned tab on Chrome. I use it for two more things. When I pin a tab, the close button goes off, and I will not accidentally close it.
+Ctrl + Shift + D – Saves all open pages as bookmarks in a new folder.
+Right click any tab for additional options like – Close tab to the right, and close all other tabs etc.
+Right click and select Duplicate tab to create a new tab with same webpage.
+Fake your location on Chrome.
+Reduce volume of Chrome (not your entire computer)
+Visit chrome://extensions and click on ‘view permissions’ on any extension to view permissions allowed to the extension.
+To view Google cache of any webpage, try cache:website.com. For example, cache:chromestory.com to view cache of chromestory.com, straight from your Chrome omnibar (addressbar)
+
+
+Web Storm 
+-------------------------------------------------------------------------
+Ctrl + Shift + U: Toggle Case  
